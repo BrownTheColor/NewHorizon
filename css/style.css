@@ -76,10 +76,10 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 .logo-image{
-  width: 120px;
-  height: 100px;
+  width: 100px;
+  height: 80px;
   overflow: hidden;
-  margin-top: -40px;
+  margin-top: -24px;
 float: left;
 }
 
