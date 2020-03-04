@@ -599,7 +599,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
 }
-
+/* people picture*/
+.peoplepic {
+  width: auto ;
+  max-width: 100% ;
+  height: auto ;
+}
 /* Services Section
 --------------------------------*/
 
