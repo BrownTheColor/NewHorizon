@@ -500,6 +500,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .about-container .background {
    width: 100%;
    max-width: 100%;
+  max-height: 500px;
+  
   float: center;
   background: url(https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2018/06/20084207/diverse-group-young-adults1.jpg) center top no-repeat;
  
