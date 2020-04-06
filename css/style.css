@@ -602,7 +602,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* people picture*/
 div.peoplepic {
   content:url(https://navjeevan379334102.files.wordpress.com/2019/01/grouptherapy.jpg);
-   max-width: 100px;
+   width: 100px;
    height: 150px;
   float: center;
   
