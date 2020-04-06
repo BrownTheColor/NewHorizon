@@ -498,10 +498,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 /*why choose us img link*/
 #about .about-container .background {
-  min-height: 300px;
-  max-width: 1000px;
+   width: 100%;
+   max-width: 100%;
+  float: center;
   background: url(https://s3-us-east-2.amazonaws.com/maryville/wp-content/uploads/2018/06/20084207/diverse-group-young-adults1.jpg) center top no-repeat;
-  margin-bottom: 10px;
+ 
 
 }
 
@@ -611,8 +612,9 @@ div.peoplepic {
 /* light skin pic*/
  div.lightSkin {
   content:url(https://www.ncchild.org/wp-content/uploads/2016/03/Group-of-Teens.jpg);
-   max-width: 100px;
-   height: 150px;
+  width: 100%;
+   max-width: 100%;
+  float: center;
 }
 
 /* Services Section
