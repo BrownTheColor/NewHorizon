@@ -602,8 +602,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* people picture*/
 div.peoplepic {
   content:url(https://navjeevan379334102.files.wordpress.com/2019/01/grouptherapy.jpg);
-   width: 500px;
-   max-width: 250px;
+   width: 50%;
+   max-width: 50%;
   float: center;
   
 }
